@@ -181,8 +181,7 @@ address {
 /* アクセス 左右横並び */
 
 .access-row {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
@@ -227,8 +226,7 @@ address {
 /* フッターの中身 */
 
 .footer-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  
   display: flex;
   width: 660px;
   margin: 0 auto;
